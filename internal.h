@@ -1,2 +1,5 @@
 
-int add_impl(int a, int b);
+class AddImpl {
+public:
+    int add(int a, int b);
+};
